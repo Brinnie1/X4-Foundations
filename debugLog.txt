@@ -1,0 +1,1510 @@
+Logfile started, time Thu Jun 08 15:14:07 2023
+[VR     ] 0.00 Detected Tobii 4.1.0 build 3
+[VR     ] 0.00 No Tobii devices detected!
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\average_prices_in_transactions_screens\t\0001-l044.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\average_prices_in_transactions_screens\t\0001-l044.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\infocenter\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\infocenter\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\jp_showmeplayerstuffdestroyed\t\0001-l044.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\jp_showmeplayerstuffdestroyed\t\0001-l044.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\kuertee_friendly_fire_tweaks\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_friendly_fire_tweaks\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mapmarker\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mycu_report_current_status\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\sn_mod_support_apis\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\tvo_more_hotkeys_adv_targeting\t\0001-l044.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\tvo_more_hotkeys_adv_targeting\t\0001-l044.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\ut_advanced_renaming\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\ut_advanced_renaming_user\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming_user\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\kuertee_surface_element_targeting\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_surface_element_targeting\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\kuertee_ui_extensions\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_ui_extensions\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mycu_custom_tabs\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mycu_custom_tabs\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mycu_equipment_tooltips\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mycu_equipment_tooltips\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mycu_map_hotkeys\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mycu_map_hotkeys\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mycu_sector_list\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mycu_sector_list\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\sn_better_target_monitor\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\sn_better_target_monitor\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\sn_extra_game_options\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\sn_extra_game_options\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\sn_hotkey_collection\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\sn_hotkey_collection\t\0001.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\sn_interact_collection\t\0001.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\sn_interact_collection\t\0001.xml' (error: 14)
+[General] 0.00 'NVIDIA GeForce RTX 3060' NVIDIA-driver v473.4.0 (Vulkan 1.2.175) check=1
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\strongerlootmagnet\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\strongerlootmagnet\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\icons.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\icons.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\infocenter\libraries\icons.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\infocenter\libraries\icons.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mycu_custom_tabs\libraries\icons.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mycu_custom_tabs\libraries\icons.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mycu_sector_list\libraries\icons.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mycu_sector_list\libraries\icons.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\experiences.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\experiences.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mapmarker\index\components.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\index\components.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mapmarker\index\macros.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\index\macros.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk1_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk1_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk3_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk3_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk3_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk3_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk1_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk1_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk2_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk2_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk2_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk2_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\strongerlootmagnet\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\strongerlootmagnet\libraries\parameters.xml' (error: 14)
+[Init   ] 0.00 Entering startmenu in 6.00 (499061)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\strongerlootmagnet\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\strongerlootmagnet\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\flat_ui\assets\ui\ui_screen_positions.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\flat_ui\assets\ui\ui_screen_positions.xml' (error: 14)
+[FileIO ] 1.47 File I/O: Failed to verify the file signature for file '.\assets\textures\lensflares\lens_rays3_small_diff.gz' (error: 13)
+[General] 5.86 ======================================
+[=ERROR=] 5.86 GetTextPage() TextPageTable for page 0 not found! Fallback text would be: "cluster_sm606_background"
+[General] 5.86 ======================================
+[FileIO ] 15.57 File I/O: Failed to verify the file signature for file '.\ui\addons\ego_debug\ui.xml' (error: 13)
+[FileIO ] 15.57 File I/O: Failed to verify the file signature for file '.\ui\addons\ego_interactmenu\ui.xml' (error: 13)
+[General] 15.57 ======================================
+[=ERROR=] 15.57 File I/O: Could not find file '.\ui\addons\ego_debug\lua_loader.xpl.sig'
+[General] 15.57 ======================================
+[FileIO ] 15.57 File I/O: Failed to verify the file signature for file '.\ui\addons\ego_debug\lua_loader.xpl' (error: 14)
+[General] 15.57 ======================================
+[=ERROR=] 15.57 File I/O: Could not find file '.\ui\addons\ego_interactmenu\menu_mapmarker.lua.sig'
+[General] 15.57 ======================================
+[FileIO ] 15.57 File I/O: Failed to verify the file signature for file '.\ui\addons\ego_interactmenu\menu_mapmarker.lua' (error: 14)
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\ui\core\lua\crosshair handling.xpl' (error: 13)
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\ui\core\lua\targetsystem.xpl' (error: 13)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\ui\addons\ego_debug\lua_loader.xpl.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\ui\addons\ego_debug\lua_loader.xpl' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\ui\addons\ego_interactmenu\menu_mapmarker.lua.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\ui\addons\ego_interactmenu\menu_mapmarker.lua' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\strongerlootmagnet\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\strongerlootmagnet\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\experiences.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\experiences.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mapmarker\index\components.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\index\components.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\mapmarker\index\macros.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\index\macros.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk1_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk1_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk3_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk3_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk3_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk3_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk1_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk1_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk2_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_xl_allround_01_mk2_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk2_macro.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\assets\props\engines\macros\thruster_gen_l_allround_01_mk2_macro.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml' (error: 14)
+[General] 0.00 ======================================
+[=ERROR=] 0.00 File I/O: Could not find file '.\extensions\strongerlootmagnet\libraries\parameters.xml.sig'
+[General] 0.00 ======================================
+[FileIO ] 0.00 File I/O: Failed to verify the file signature for file '.\extensions\strongerlootmagnet\libraries\parameters.xml' (error: 14)
+[Init   ] 0.00 Loading saved game 'quicksave', first pass
+[Init   ] 0.00 - Saved in 6.00 (499061), game time = 11d 16h 47m, gamestart 'x4ep1_gamestart_tutorial' started in 5.00 (475121)
+[Init   ] 0.00 - MODIFIED: At some point, the game was running with modified game files (modified=1)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mapmarker\assets\environments\deco\macros\map_marker_01_macro.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\assets\environments\deco\macros\map_marker_01_macro.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mapmarker\assets\environments\deco\map_marker_01.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\assets\environments\deco\map_marker_01.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\flat_ui\assets\ui\ui_screen_positions.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\flat_ui\assets\ui\ui_screen_positions.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\drone.pickup.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\drone.pickup.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\engineer.ai.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\engineer.ai.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\engineer.ai.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\engineer.ai.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.bigtarget.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.bigtarget.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.capital.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.capital.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/aiscript/attention[@min='visible']/actions/do_if[@value='this.ship.pilot and (@$targets.count or $dronetargets.count or ($miningtargets.count and this.ship == player.occupiedship))']/do_if[@value='@$primarytarget.canbeattacked']/do_elseif[@value='(this.assignedcontrolled != player.occupiedship) and not this.assignedcontrolled.dock']/shoot_at[@largetarget='$largetarget'][@tolerance='10.0deg']/@tolerance' in patch file 'extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.capital.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/aiscript/attention[@min='visible']/actions/do_if[@value='this.ship.pilot and (@$targets.count or $dronetargets.count or ($miningtargets.count and this.ship == player.occupiedship))']/do_if[@value='@$primarytarget.canbeattacked']/do_elseif[@value='(this.assignedcontrolled != player.occupiedship) and not this.assignedcontrolled.dock']/shoot_at[@largetarget='$largetarget'][@tolerance='360.0deg']/@tolerance' in patch file 'extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.capital.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.fighter.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.fighter.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.medium.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.medium.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.station.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\fight.attack.object.station.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.attacked.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.attacked.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.missilelock.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.missilelock.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.npc.usecases.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.npc.usecases.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.restock.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\interrupt.restock.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\lib.calculate.miningefficiency.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\lib.calculate.miningefficiency.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\lib.respond.inspected.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\lib.respond.inspected.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\lib.target.selection.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\lib.target.selection.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\masstraffic.watchdog.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\masstraffic.watchdog.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\mining.collect.ship.liquid.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\mining.collect.ship.liquid.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\mining.collect.ship.medium.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\mining.collect.ship.medium.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.attack.object.capital.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.attack.object.capital.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\move.claim.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\move.claim.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.collect.drone.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.collect.drone.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.collect.ship.smallship.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.collect.ship.smallship.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.escapepod.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.escapepod.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.evade.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.evade.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.boost.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.boost.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.dock.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.dock.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.maneuver.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.maneuver.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.flee.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\move.flee.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\move.flee.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.gate.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.gate.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.generic.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.generic.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.idle.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.idle.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\move.idle.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\move.idle.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.seekenemies.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.seekenemies.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.build.deploy.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.build.deploy.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.build.equip.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.build.equip.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.collect.ship.lockbox.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.collect.ship.lockbox.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.collect.ship.lockbox.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.collect.ship.lockbox.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.collect.ship.lockbox.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.collect.ship.lockbox.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_enable_radius_in_collect_drops_command\aiscripts\order.collect.ship.radius.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_enable_radius_in_collect_drops_command\aiscripts\order.collect.ship.radius.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.collect.ship.radius.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.collect.ship.radius.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.collect.ship.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.collect.ship.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.deployobjectatposition.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.deployobjectatposition.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.dock.wait.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.dock.wait.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.dock.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.dock.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.attack.inrange.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.attack.inrange.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.fight.attack.inrange.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.fight.attack.inrange.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.attack.object.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.attack.object.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.fight.attack.object.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.fight.attack.object.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.fight.attack.object.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.fight.attack.object.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.board.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.board.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.fight.board.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.fight.board.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.escort.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.escort.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Multiple matching nodes for path '//attention[@min="visible"]//wait[@exact="1ms"]' in patch file 'extensions\da_ku_ai_tweaks\aiscripts\order.fight.escort.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Multiple matching nodes for path '//attention[@min="unknown"]//wait[@exact="1ms"]' in patch file 'extensions\da_ku_ai_tweaks\aiscripts\order.fight.escort.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.fight.escort.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.fight.escort.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.lasertower.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.lasertower.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.patrol.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.patrol.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.protect.position.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.protect.position.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.protect.ship.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.protect.ship.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.protect.station.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.protect.station.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.tactical.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.fight.tactical.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.mining.collect.ship.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.mining.collect.ship.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.mining.routine.advanced.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.mining.routine.advanced.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.mining.routine.expert.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.mining.routine.expert.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.mining.routine.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.mining.routine.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.follow.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.follow.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.move.follow.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.move.follow.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.move.recon.explore.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.move.recon.explore.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.recon.police.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.recon.police.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.move.recon.update.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.move.recon.update.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.recon.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.recon.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.move.recon.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.move.recon.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.move.wait.object.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.move.wait.object.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.wait.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.move.wait.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.move.wait.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.move.wait.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.plunder.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.plunder.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.repair.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.repair.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.supply.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.supply.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.trade.depositinventory.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.trade.depositinventory.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.trade.perform.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.trade.perform.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.trade.perform.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.trade.perform.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.trade.wareexchange.nonship.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.trade.wareexchange.nonship.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.trade.wareexchange.ship.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.trade.wareexchange.ship.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.wait.signal.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.wait.signal.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\order.wait.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\order.wait.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.wait.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.wait.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\order.wait.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\order.wait.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\trade.find.free.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\trade.find.free.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\aiscripts\trade.station.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\aiscripts\trade.station.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\kuertee_aait_interrupts.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\kuertee_aait_interrupts.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.avoid.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.avoid.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.engage.position.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.engage.position.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.step.forward.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.step.forward.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.withdraw.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\aiscripts\move.kuertee.withdraw.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\lib.prepare.status.order.string.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\lib.prepare.status.order.string.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_report_current_status\aiscripts\order.report.status.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_report_current_status\aiscripts\order.report.status.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\libraries\objectspawnrules.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\libraries\objectspawnrules.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_s_02_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_s_03_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_s_04_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_s_05_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_m_02_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_m_03_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_m_04_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@owner="xenon"]/select[@macro="env_ast_crystal_detail_m_05_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_02_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_03_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_04_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_05_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_02_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_03_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_04_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="true"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_05_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_02_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_03_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_04_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_s_05_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_02_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_03_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_04_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 No matching node for path '/objectspawnrules/regions/rule[@fieldtype="asteroid"][@hazardousregion="false"][not(@owner="xenon")]/select[@macro="env_ast_crystal_detail_m_05_macro"]/@cooldown' in patch file 'extensions\kk4duy_crystal_unnerf\libraries\objectspawnrules.xml'. Skipping node.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_01.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_01.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_02.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_02.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_03.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_03.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_04.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_04.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_05.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_s_05.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_01.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_01.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_02.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_02.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_03.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_03.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_04.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_04.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_05.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\crystal_rarities\assets\environments\asteroids\crystals\env_ast_crystal_detail_m_05.xml' (error: 14)
+[Init   ] 1010831.67 Loading saved game 'quicksave', second pass
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\md\boarding.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\md\boarding.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\conversations.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\conversations.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\md\factiongoal_hold_space.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\md\factiongoal_hold_space.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\md\factiongoal_invade_space.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\md\factiongoal_invade_space.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\md\factiongoal_patrolcoordinationservice.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\md\factiongoal_patrolcoordinationservice.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\md\factionsubgoal_buildstation.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\md\factionsubgoal_buildstation.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\guidance.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\guidance.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\md\notifications.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\md\notifications.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_friendly_fire_tweaks\md\notifications.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_friendly_fire_tweaks\md\notifications.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_log_only_full_relation_change\md\notifications.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_log_only_full_relation_change\md\notifications.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\md\notifications.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\md\notifications.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\placedobjects.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\placedobjects.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\rml_deliver_crew.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\rml_deliver_crew.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_surface_element_targeting\md\rml_destroy_components.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_surface_element_targeting\md\rml_destroy_components.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\rml_repairobject.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\rml_repairobject.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\rml_repairsignalleaks.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\rml_repairsignalleaks.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\scenario_advanced.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\scenario_advanced.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\scenario_flightschool.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\scenario_flightschool.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\signal_leaks.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\signal_leaks.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\md\skill_gain.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\md\skill_gain.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\story_paranid.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\story_paranid.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\x4ep1_pirates_subscriptions.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\x4ep1_pirates_subscriptions.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\x4ep1_trade_subscriptions.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\x4ep1_trade_subscriptions.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\x4ep1_war_subscriptions.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\x4ep1_war_subscriptions.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\apologizeforattack\md\apologizeforattack.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\apologizeforattack\md\apologizeforattack.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\md\kuertee_aait.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\md\kuertee_aait.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\infocenter\md\infocenter.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\infocenter\md\infocenter.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\jp_showmeplayerstuffdestroyed\md\jp_showmeplayerstuffdestroyed.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\jp_showmeplayerstuffdestroyed\md\jp_showmeplayerstuffdestroyed.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_accessibility_features\md\kuertee_accessibility_features.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_accessibility_features\md\kuertee_accessibility_features.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_friendly_fire_tweaks\md\kuertee_fft_config.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_friendly_fire_tweaks\md\kuertee_fft_config.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mapmarker\md\mapmarker.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mapmarker\md\mapmarker.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\chat_window_api.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\chat_window_api.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\hotkey_api.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\hotkey_api.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\interact_menu_api.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\interact_menu_api.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\lua_loader.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\lua_loader.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\named_pipes.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\named_pipes.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\pipe_server_host.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\pipe_server_host.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\pipe_server_lib.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\pipe_server_lib.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\simple_menu_api.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\simple_menu_api.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\simple_menu_options.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\simple_menu_options.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\time_api.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\time_api.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_mod_support_apis\md\userdata.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_mod_support_apis\md\userdata.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\tvo_more_hotkeys_adv_targeting\md\more_hotkeys_adv_targeting.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\tvo_more_hotkeys_adv_targeting\md\more_hotkeys_adv_targeting.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Property lookup failed: class.turrets
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 extensions\tvo_more_hotkeys_adv_targeting\md\more_hotkeys_adv_targeting.xml(859): Warning while parsing expression: Property lookup failed
+* Input: [class.turrets, class.launcher]
+* Pos:          ^^^^^^^
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Property lookup failed: class.turrets
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 extensions\tvo_more_hotkeys_adv_targeting\md\more_hotkeys_adv_targeting.xml(1115): Warning while parsing expression: Property lookup failed
+* Input: [class.turrets, class.launcher]
+* Pos:          ^^^^^^^
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\md\boarding.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\md\boarding.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Error loading MD file extensions\ut_advanced_renaming\md\Boarding.xml: Ignoring root node 'diff' in XML file 'extensions\ut_advanced_renaming\md\Boarding.xml'.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\md\notifications.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\md\notifications.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Error loading MD file extensions\ut_advanced_renaming\md\Notifications.xml: Ignoring root node 'diff' in XML file 'extensions\ut_advanced_renaming\md\Notifications.xml'.
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\ut_advanced_renaming\md\utcac_object_name_managment.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\ut_advanced_renaming\md\utcac_object_name_managment.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_surface_element_targeting\md\kuertee_set.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_surface_element_targeting\md\kuertee_set.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\kuertee_amflb.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\kuertee_ui_accept_mission_for_later_button\md\kuertee_amflb.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_custom_tabs\md\custom_tabs.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_custom_tabs\md\custom_tabs.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_custom_tabs\md\custom_tabs_config.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_custom_tabs\md\custom_tabs_config.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_equipment_tooltips\md\tooltips.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_equipment_tooltips\md\tooltips.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_external_app\md\external_app.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_external_app\md\external_app.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_map_hotkeys\md\map_hotkeys.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_map_hotkeys\md\map_hotkeys.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\mycu_sector_list\md\sector_list.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\mycu_sector_list\md\sector_list.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_better_target_monitor\md\better_target_monitor.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_better_target_monitor\md\better_target_monitor.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_extra_game_options\md\extra_game_options.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_extra_game_options\md\extra_game_options.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_hotkey_collection\md\sn_hotkeys.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_hotkey_collection\md\sn_hotkeys.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\sn_interact_collection\md\sn_interact_commands.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\sn_interact_collection\md\sn_interact_commands.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Error in MD cue md.MoreHotkeysAdvancedTargeting.Mhk_TargetKillsurfaceelement: Error evaluating <event_object_destroyed> event object: Component 0x0 does not exist any more
+* Expression: Mhk_at_Var.$mhkoldsubsystemtarget
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'Equip' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.build.equip' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'Collect' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.collect.ship' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'CollectDropsInRadius' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.collect.ship.radius' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'DeployObjectAtPosition' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.deployobjectatposition' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'AttackInRange' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.fight.attack.inrange' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'Attack' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.fight.attack.object' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'Repair' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.repair' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'DepositInventory' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.trade.depositinventory' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'TradePerform' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.trade.perform' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Script warning: AI order 'TradeExchange' can be infinite but action <set_order_syncpoint_reached> is missing in script 'order.trade.wareexchange.ship' attention level 'unknown'
+[General] 1010831.67 ======================================
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\da_ku_ai_tweaks\libraries\parameters.xml' (error: 14)
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 File I/O: Could not find file '.\extensions\strongerlootmagnet\libraries\parameters.xml.sig'
+[General] 1010831.67 ======================================
+[FileIO ] 1010831.67 File I/O: Failed to verify the file signature for file '.\extensions\strongerlootmagnet\libraries\parameters.xml' (error: 14)
+[Scripts] 1010831.67 *** Context:md.kuertee_accessibility_features.Init: event.name: event_game_loaded, UserSettings.$debugChance: 100
+[Scripts] 1010831.67 *** Context:md.kuertee_surface_element_targeting.Init: event.name: event_game_loaded, UserSettings.$debugChance: 0
+[Scripts] 1010831.67 *** Context:md.kuertee_amflb.Init: $debugChance: 0
+[General] 1010831.67 ======================================
+[=ERROR=] 1010831.67 Error in MD cue md.Story_Diplomacy_Intro.Patch_Userdata<inst:150f83>: Property lookup failed: userdatasigned.story_hq_dal
+* Expression: 'Setting userdata story_hq_dal to ' + userdatasigned.story_hq_dal
+* Action: <debug_text>, line 12
+[General] 1010831.67 ======================================
+[Savegame] 1010831.67 *** Context:md.Story_Diplomacy_Intro.Patch_Userdata<inst:150f83>: Setting userdata story_hq_dal to null
+[Savegame] 1010831.67 *** Context:md.X4Ep1_Trade_Subscriptions.Patch_Userdata_Player_Subscribed_To_Guild_V2<inst:150f87>: Player is subscribed to trade guild : ANTIGONE_GUILD - setting user data
+[Savegame] 1010831.67 *** Context:md.X4Ep1_War_Subscriptions.Patch_Userdata_Player_Subscribed_To_War_V2<inst:150f88>: Player is subscribed to war missions: ARG_VS_XENON - setting user data
+[General] 1010831.70 ======================================
+[=ERROR=] 1010831.70 Error in MD cue md.X4Ep1_Mentor_Subscriptions.Patch_Userdata<inst:150f85>: Property lookup failed: userdatasigned.story_hq_boso
+* Expression: 'Setting userdata story_hq_boso to ' + userdatasigned.story_hq_boso
+* Action: <debug_text>, line 14
+[General] 1010831.70 ======================================
+[Savegame] 1010831.70 *** Context:md.X4Ep1_Mentor_Subscriptions.Patch_Userdata<inst:150f85>: Setting userdata story_hq_boso to null
+[General] 1010831.70 ======================================
+[=ERROR=] 1010831.70 InfoCenter Init
+[General] 1010831.70 ======================================
+[General] 1010831.70 ======================================
+[=ERROR=] 1010831.70 More Hotkeys AT Init
+[General] 1010831.70 ======================================
+[General] 1010831.70 ======================================
+[=ERROR=] 1010831.70 D:/Steam/steamapps/common/X4 Foundations/.../helper.lua(708): origreadtext(): TextDB lookup failed for (12115, 1)
+[General] 1010831.70 ======================================
+[General] 1010831.70 ======================================
+[=ERROR=] 1010831.70 D:/Steam/steamapps/common/X4 Foundations/.../helper.lua(708): origreadtext(): TextDB lookup failed for (92015, 1)
+[General] 1010831.70 ======================================
+[General] 1010831.70 ======================================
+[=ERROR=] 1010831.70 ea.lua: INIT
+[General] 1010831.70 ======================================
+[Scripts] 1010831.99 *** Context:md.kuertee_accessibility_features.HotKeyAPI_OnReloaded: event.name: event_cue_signalled
+[Economy_Verbose] 1010832.29 #FLS#;1010832.287;Recon_RequestShip;[md.FactionGoal_Hold_Space.Start];TEL Recon Fighter Kestrel Vanguard;0x153088;JQU-872;Grand Exchange III;teladi;null
+[Economy_Verbose] 1010832.29 #FLS#;1010832.287;Recon_RequestShip;[md.FactionGoal_Hold_Space.Start];TEL Recon Fighter Guillemot Sentinel;0x15309c;VVT-585;Grand Exchange III;teladi;null
+[FileIO ] 1010832.64 File I/O: Failed to verify the file signature for file '.\ui\core\presentations\targetsystem\targetsystem_recovered\missionindicator.gz' (error: 13)
+[Scripts] 1010832.67 *** Context:md.kuertee_amflb.Init2: md.kuertee_accessibility_features.kAccessFs.exists: 1
+[FileIO ] 1010832.83 File I/O: Failed to verify the file signature for file '.\assets\textures\map\map_radar_base_01.gz' (error: 13)
+[Economy_Verbose] 1010833.34 #FLS#;1010833.339;Recon_RequestShip;[md.FactionGoal_Hold_Space.Start];ARG Recon Fighter Discoverer Vanguard;0x153543;NBO-668;Black Hole Sun IV;argon;null
+[Economy_Verbose] 1010840.97 #FL#;1010840.966;Cleanup;FactionGoal_Hold_Space<inst:96c72>;(teladi) FactionSubgoal_Recon<inst:9a119> in: 0x2b610 Empty Space (Profit Center Alpha);null;null;Empty Space;teladi;null
+[Economy_Verbose] 1010840.97 #FL#;1010840.966;Started;FactionGoal_Hold_Space<inst:96c72>;(teladi) FactionSubgoal_Recon<inst:154864> in: 0x2c828 Empty Space (Profit Center Alpha);null;null;Empty Space;teladi;null
+[General] 1010850.55 ======================================
+[=ERROR=] 1010850.55 File I/O: Could not find file '.\extensions\infocenter\assets\fx\gui\textures\map_sidebar_tabs\mapst_infocenter.gz.sig'
+[General] 1010850.55 ======================================
+[General] 1010850.55 ======================================
+[=ERROR=] 1010850.55 File I/O: Could not find file '.\extensions\mycu_custom_tabs\assets\fx\gui\textures\mct_icons\icon_a.gz.sig'
+[General] 1010850.55 ======================================
+[General] 1010850.55 ======================================
+[=ERROR=] 1010850.55 File I/O: Could not find file '.\extensions\mycu_custom_tabs\assets\fx\gui\textures\mct_icons\icon_b.gz.sig'
+[General] 1010850.55 ======================================
+[General] 1010850.55 ======================================
+[=ERROR=] 1010850.55 File I/O: Could not find file '.\extensions\mycu_sector_list\assets\fx\gui\textures\map_sidebar_tabs\mapst_sectorlist.gz.sig'
+[General] 1010850.55 ======================================
+[FileIO ] 1010850.55 File I/O: Failed to verify the file signature for file '.\extensions\infocenter\assets\fx\gui\textures\map_sidebar_tabs\mapst_infocenter.gz' (error: 14)
+[FileIO ] 1010850.55 File I/O: Failed to verify the file signature for file '.\extensions\mycu_custom_tabs\assets\fx\gui\textures\mct_icons\icon_a.gz' (error: 14)
+[FileIO ] 1010850.55 File I/O: Failed to verify the file signature for file '.\extensions\mycu_custom_tabs\assets\fx\gui\textures\mct_icons\icon_b.gz' (error: 14)
+[FileIO ] 1010850.55 File I/O: Failed to verify the file signature for file '.\extensions\mycu_sector_list\assets\fx\gui\textures\map_sidebar_tabs\mapst_sectorlist.gz' (error: 14)
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 GetObjectIDCode(): Failed to retrieve object with ID '125885'
+[General] 1010851.78 ======================================
+[General] 1010851.78 ======================================
+[=ERROR=] 1010851.78 Error while executing onEvent script for event: onClick.
+Errormessage: .\extensions\infocenter\ui\infocenter.lua:1341: attempt to index field 'renderedComponentsRef' (a nil value)
+[General] 1010851.78 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 GetObjectIDCode(): Failed to retrieve object with ID '125885'
+[General] 1010854.44 ======================================
+[General] 1010854.44 ======================================
+[=ERROR=] 1010854.44 Error while executing onEvent script for event: onClick.
+Errormessage: .\extensions\infocenter\ui\infocenter.lua:1341: attempt to index field 'renderedComponentsRef' (a nil value)
+[General] 1010854.44 ======================================
+[Economy_Verbose] 1010857.26 #FL#;1010857.257;Cleanup;FactionGoal_Hold_Space<inst:96d90>;(freesplit) FactionSubgoal_DefendArea<inst:99842> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010857.26 #FL#;1010857.257;Cleanup;FactionGoal_Hold_Space<inst:96d90>;(freesplit) FactionSubgoal_DefendArea<inst:990c2> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010857.26 #FL#;1010857.257;Cleanup;FactionGoal_Hold_Space<inst:96d90>;(freesplit) FactionSubgoal_DefendArea<inst:991bd> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010857.26 #FL#;1010857.257;Started;FactionGoal_Hold_Space<inst:96d90>;(freesplit) FactionSubgoal_DefendArea<inst:156fa7> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010857.26 #FL#;1010857.257;Started;FactionGoal_Hold_Space<inst:96d90>;(freesplit) FactionSubgoal_DefendArea<inst:156fb7> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010857.26 #FL#;1010857.257;Started;FactionGoal_Hold_Space<inst:96d90>;(freesplit) FactionSubgoal_DefendArea<inst:156fc7> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010859.77 #FL#;1010859.774;Cleanup;FactionGoal_Hold_Space<inst:97034>;(xenon) FactionSubgoal_Recon<inst:9a771> in: 0x53b95 Empty Space (Zyarth's Dominion I);null;null;Empty Space;xenon;null
+[Economy_Verbose] 1010859.77 #FL#;1010859.774;Started;FactionGoal_Hold_Space<inst:97034>;(xenon) FactionSubgoal_Recon<inst:15771c> in: 0x53b95 Empty Space (Zyarth's Dominion I);null;null;Empty Space;xenon;null
+[Economy_Verbose] 1010867.91 #FLS#;1010867.911;DefendArea_ShipBuilt;[md.FactionGoal_Hold_Space.Start];XEN Raiding Party P;0xdcc8;UQC-993;Matrix #9;xenon;Matrix #79B
+[Economy_Verbose] 1010868.01 #FLS#;1010868.014;DefendArea_ShipBuilt;[md.FactionGoal_Hold_Space.Start];XEN Raiding Party P;0x25b3c;XZN-271;Matrix #9;xenon;Matrix #9
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '131107'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 GetObjectIDCode(): Failed to retrieve object with ID '125885'
+[General] 1010874.96 ======================================
+[General] 1010874.96 ======================================
+[=ERROR=] 1010874.96 Error while executing onEvent script for event: onClick.
+Errormessage: .\extensions\infocenter\ui\infocenter.lua:1341: attempt to index field 'renderedComponentsRef' (a nil value)
+[General] 1010874.96 ======================================
+[General] 1010877.31 ======================================
+[=ERROR=] 1010877.31 Widget system error. Failed to set initial selected column. Selected-column will not be changed. Error: specified column contains a non-selectable element and hence cannot be selected
+[General] 1010877.31 ======================================
+[Economy_Verbose] 1010878.22 #FLS#;1010878.224;DefendArea_RequestShip;[md.FactionGoal_Invade_Space.Start];XEN Raiding Party P;0x15a48f;WDN-126;Frontier Edge;xenon;null
+[Economy_Verbose] 1010878.22 #FLS#;1010878.224;DefendArea_RequestShip;[md.FactionGoal_Invade_Space.Start];XEN Raiding Party P;0x15a4c1;HAN-195;Frontier Edge;xenon;null
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '131107'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '312500'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 GetObjectIDCode(): Failed to retrieve object with ID '125885'
+[General] 1010878.89 ======================================
+[General] 1010878.89 ======================================
+[=ERROR=] 1010878.89 Error while executing onEvent script for event: onClick.
+Errormessage: .\extensions\infocenter\ui\infocenter.lua:1341: attempt to index field 'renderedComponentsRef' (a nil value)
+[General] 1010878.89 ======================================
+[Economy_Verbose] 1010909.58 #FL#;1010909.576;Cleanup;FactionGoal_Hold_Space<inst:96dde>;(freesplit) FactionSubgoal_DefendArea<inst:99918> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;freesplit;null
+[Economy_Verbose] 1010909.58 #FL#;1010909.576;Cleanup;FactionGoal_Hold_Space<inst:96dde>;(freesplit) FactionSubgoal_DefendArea<inst:9973d> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;freesplit;null
+[Economy_Verbose] 1010909.58 #FL#;1010909.576;Cleanup;FactionGoal_Hold_Space<inst:96dde>;(freesplit) FactionSubgoal_DefendArea<inst:99052> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;freesplit;null
+[Economy_Verbose] 1010909.58 #FL#;1010909.576;Started;FactionGoal_Hold_Space<inst:96dde>;(freesplit) FactionSubgoal_DefendArea<inst:15f290> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;freesplit;null
+[Economy_Verbose] 1010909.58 #FL#;1010909.576;Started;FactionGoal_Hold_Space<inst:96dde>;(freesplit) FactionSubgoal_DefendArea<inst:15f2a0> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;freesplit;null
+[Economy_Verbose] 1010909.58 #FL#;1010909.576;Started;FactionGoal_Hold_Space<inst:96dde>;(freesplit) FactionSubgoal_DefendArea<inst:15f2b0> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;freesplit;null
+[Economy_Verbose] 1010909.79 #FL#;1010909.794;Cleanup;FactionGoal_Hold_Space<inst:96e12>;(split) FactionSubgoal_DefendArea<inst:995f0> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.79 #FL#;1010909.794;Cleanup;FactionGoal_Hold_Space<inst:96e12>;(split) FactionSubgoal_DefendArea<inst:98efa> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.79 #FL#;1010909.794;Started;FactionGoal_Hold_Space<inst:96e12>;(split) FactionSubgoal_DefendArea<inst:15f3d0> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.79 #FL#;1010909.794;Started;FactionGoal_Hold_Space<inst:96e12>;(split) FactionSubgoal_DefendArea<inst:15f3e0> in: Tharka's Ravine XXIV 0x49010 ;null;null;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.86 #FLS#;1010909.857;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ZYA Patrol Destroyer Rattlesnake;0x15f415;ICQ-644;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.86 #FLS#;1010909.857;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ZYA Fighter Squadron Dragon;0x15f472;GZQ-343;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.86 #FLS#;1010909.857;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ZYA Recon Fighter Jaguar;0x15f4ae;ZZX-677;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.86 #FLS#;1010909.857;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ZYA Fighter Squadron Dragon;0x15f4c1;LBP-267;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.86 #FLS#;1010909.857;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ZYA Fighter Squadron Dragon;0x15f4fd;RWE-024;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.86 #FLS#;1010909.857;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ZYA Recon Fighter Jaguar;0x15f539;HYK-137;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010909.86 #FLS#;1010909.857;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ZYA Recon Fighter Jaguar;0x15f54c;WAS-259;Tharka's Ravine XXIV;split;null
+[Economy_Verbose] 1010911.81 #FL#;1010911.815;Cleanup;FactionGoal_Hold_Space<inst:96b6e>;(paranid) FactionSubgoal_Recon<inst:99e59> in: 0x2f890 Empty Space (Sacred Relic);null;null;Empty Space;paranid;null
+[Economy_Verbose] 1010911.81 #FL#;1010911.815;Started;FactionGoal_Hold_Space<inst:96b6e>;(paranid) FactionSubgoal_Recon<inst:15fa50> in: 0x2fa70 Empty Space (Sacred Relic);null;null;Empty Space;paranid;null
+[Economy_Verbose] 1010915.84 #FL#;1010915.841;handoff;md.FactionGoal_Invade_Space.Start<inst:97185>;null;null;null;Family Tkr;freesplit;xenon
+[Economy_Verbose] 1010916.87 #FL#;1010916.875;Cleanup;FactionGoal_Invade_Space<inst:97185>;(freesplit) FactionSubgoal_Recon<inst:9ac79> in: 0x67f31 Empty Space (Family Tkr);null;null;Empty Space;freesplit;null
+[Economy_Verbose] 1010916.87 #FL#;1010916.875;Cleanup;FactionGoal_Invade_Space<inst:97185>;(freesplit) FactionSubgoal_DefendArea<inst:98f9e> in: Fires of Defeat 0x6a4fe ;null;null;Fires of Defeat;freesplit;null
+[Economy_Verbose] 1010916.87 #FL#;1010916.875;Cleanup;FactionGoal_Invade_Space<inst:97185>;(freesplit) FactionSubgoal_DefendArea<inst:995b4> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010916.87 #FL#;1010916.875;Cleanup;FactionGoal_Invade_Space<inst:97185>;(freesplit) FactionSubgoal_DefendArea<inst:993cc> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010916.87 #FL#;1010916.875;cleanup;md.FactionGoal_Invade_Space.Start<inst:97185>;null;null;null;Family Tkr;freesplit;xenon
+[Economy_Verbose] 1010924.59 #FLS#;1010924.594;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];TEL Fighter Squadron Buzzard Vanguard;0x161aea;PFE-035;Ianamus Zura IV;teladi;null
+[Economy_Verbose] 1010924.59 #FLS#;1010924.594;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];TEL Fighter Squadron Buzzard Vanguard;0x161b01;QWK-365;Ianamus Zura IV;teladi;null
+[Economy_Verbose] 1010936.95 #FL#;1010936.949;prepare_for_invasion;md.FactionGoal_Invade_Space.Start<inst:1637f8>;null;null;null;Family Tkr;freesplit;xenon
+[Economy_Verbose] 1010937.64 #FL#;1010937.643;Cleanup;FactionGoal_Hold_Space<inst:96c65>;(teladi) FactionSubgoal_Recon<inst:9a0ec> in: 0x247bd Empty Space (Company Regard);null;null;Empty Space;teladi;null
+[Economy_Verbose] 1010937.64 #FL#;1010937.643;Started;FactionGoal_Hold_Space<inst:96c65>;(teladi) FactionSubgoal_Recon<inst:1639ba> in: 0x247bd Empty Space (Company Regard);null;null;Empty Space;teladi;null
+[Economy_Verbose] 1010937.97 #FL#;1010937.973;Started;FactionGoal_Invade_Space<inst:1637f8>;(freesplit) FactionSubgoal_DefendArea<inst:163a6c> in: Fires of Defeat 0x6a4fe ;null;null;Fires of Defeat;freesplit;null
+[Economy_Verbose] 1010937.97 #FL#;1010937.973;Started;FactionGoal_Invade_Space<inst:1637f8>;(freesplit) FactionSubgoal_DefendArea<inst:163a7c> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010937.97 #FL#;1010937.973;Started;FactionGoal_Invade_Space<inst:1637f8>;(freesplit) FactionSubgoal_DefendArea<inst:163a8c> in: Thuruk's Demise III 0x4edae ;null;null;Thuruk's Demise III;freesplit;null
+[Economy_Verbose] 1010937.97 #FL#;1010937.973;Started;FactionGoal_Invade_Space<inst:1637f8>;(freesplit) FactionSubgoal_Recon<inst:163a9c> in: 0x67ee2 Empty Space (Family Tkr);null;null;Empty Space;freesplit;null
+[Economy_Verbose] 1010941.22 #FL#;1010941.224;Cleanup;FactionGoal_Hold_Space<inst:9700d>;(xenon) FactionSubgoal_Recon<inst:9abfb> in: 0x70d37 Empty Space (Family Zhin);null;null;Empty Space;xenon;null
+[Economy_Verbose] 1010941.22 #FL#;1010941.224;Started;FactionGoal_Hold_Space<inst:9700d>;(xenon) FactionSubgoal_Recon<inst:1642a8> in: 0x70cff Empty Space (Family Zhin);null;null;Empty Space;xenon;null
+[Economy_Verbose] 1010943.14 #FL#;1010943.143;Cleanup;FactionGoal_Hold_Space<inst:9711e>;(xenon) FactionSubgoal_DefendArea<inst:9905e> in: Family Tkr 0x67ca4 ;null;null;Family Tkr;xenon;null
+[Economy_Verbose] 1010943.14 #FL#;1010943.143;Cleanup;FactionGoal_Hold_Space<inst:9711e>;(xenon) FactionSubgoal_DefendArea<inst:99661> in: Family Tkr 0x67ca4 ;null;null;Family Tkr;xenon;null
+[Economy_Verbose] 1010943.14 #FL#;1010943.143;Cleanup;FactionGoal_Hold_Space<inst:9711e>;(xenon) FactionSubgoal_DefendArea<inst:994cb> in: Family Tkr 0x67ca4 ;null;null;Family Tkr;xenon;null
+[Economy_Verbose] 1010943.14 #FL#;1010943.143;Started;FactionGoal_Hold_Space<inst:9711e>;(xenon) FactionSubgoal_DefendArea<inst:16470e> in: Family Tkr 0x67ca4 ;null;null;Family Tkr;xenon;null
+[Economy_Verbose] 1010943.14 #FL#;1010943.143;Started;FactionGoal_Hold_Space<inst:9711e>;(xenon) FactionSubgoal_DefendArea<inst:16471e> in: Family Tkr 0x67ca4 ;null;null;Family Tkr;xenon;null
+[Economy_Verbose] 1010943.14 #FL#;1010943.143;Started;FactionGoal_Hold_Space<inst:9711e>;(xenon) FactionSubgoal_DefendArea<inst:16472e> in: Family Tkr 0x67ca4 ;null;null;Family Tkr;xenon;null
+[Economy_Verbose] 1010947.92 #FL#;1010947.917;Cleanup;FactionGoal_Hold_Space<inst:96f30>;(argon) FactionSubgoal_DefendArea<inst:99118> in: Eleventh Hour 0x4b8ef ;null;null;Eleventh Hour;argon;null
+[Economy_Verbose] 1010947.92 #FL#;1010947.917;Started;FactionGoal_Hold_Space<inst:96f30>;(argon) FactionSubgoal_DefendArea<inst:165108> in: Eleventh Hour 0x4b8ef ;null;null;Eleventh Hour;argon;null
+[Economy_Verbose] 1010947.94 #FLS#;1010947.94;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ARG Drone Carrier Cerberus Vanguard;0x165135;PLU-865;Eleventh Hour;argon;null
+[Economy_Verbose] 1010947.94 #FLS#;1010947.94;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ARG Fighter Squadron Eclipse Vanguard;0x165175;HUJ-839;Eleventh Hour;argon;null
+[Economy_Verbose] 1010947.94 #FLS#;1010947.94;DefendArea_RequestShip;[md.FactionGoal_Hold_Space.Start];ARG Fighter Squadron Eclipse Vanguard;0x16518d;MCW-089;Eleventh Hour;argon;null
+[Scripts] 1010950.22 *** Context:md.kuertee_accessibility_features.OnOptionsMenuClose: UserSettings.$isDoDebug1: 0 UserSettings.$isDoDebug2: 0
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '78344'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '78344'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '312500'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010953.55 ======================================
+[General] 1010953.55 ======================================
+[=ERROR=] 1010953.55 Error while executing onEvent script for event: onClick.
+Errormessage: .\extensions\infocenter\ui\infocenter.lua:1341: attempt to index field 'renderedComponentsRef' (a nil value)
+[General] 1010953.55 ======================================
+[Economy_Verbose] 1010954.05 #FL#;1010954.045;Cleanup;FactionGoal_Hold_Space<inst:96d01>;(xenon) FactionSubgoal_DefendArea<inst:99234> in: Matrix #451 0x289d2 ;null;null;Matrix #451;xenon;null
+[Economy_Verbose] 1010954.05 #FL#;1010954.045;Started;FactionGoal_Hold_Space<inst:96d01>;(xenon) FactionSubgoal_DefendArea<inst:165f99> in: Matrix #451 0x289d2 ;null;null;Matrix #451;xenon;null
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '78344'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '78344'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '312500'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010954.93 ======================================
+[General] 1010954.93 ======================================
+[=ERROR=] 1010954.93 Error while executing onEvent script for event: onClick.
+Errormessage: .\extensions\infocenter\ui\infocenter.lua:1341: attempt to index field 'renderedComponentsRef' (a nil value)
+[General] 1010954.93 ======================================
+[Economy_Verbose] 1010956.25 #DRAIN#;1010956.249;drain;NULL;0x0;Drain_Stations;0xfefe;HOP Paranid Trading Station;0x27ede;Holy Vision;Holy Vision;Empty Space;Water (53/6);17782;106692
+[Economy_Verbose] 1010956.25 #DRAIN#;1010956.249;drain;NULL;0x0;Drain_Stations;0xfefe;HOP Paranid Trading Station;0x27ede;Holy Vision;Holy Vision;Empty Space;Hull Parts (209/12);7974;95688
+[Economy_Verbose] 1010956.25 #DRAIN#;1010956.249;drain;NULL;0x0;Drain_Stations;0xfefe;HOP Paranid Trading Station;0x27ede;Holy Vision;Holy Vision;Empty Space;Soja Husk (32/1);566;566
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '37825'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '78344'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '78344'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '312500'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '444341'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '208346'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '118512'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '274525'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 GetObjectIDCode(): Failed to retrieve object with ID '197821'
+[General] 1010956.30 ======================================
+[General] 1010956.30 ======================================
+[=ERROR=] 1010956.30 Error while executing onEvent script for event: onClick.
+Errormessage: .\extensions\infocenter\ui\infocenter.lua:1341: attempt to index field 'renderedComponentsRef' (a nil value)
+[General] 1010956.30 ======================================
+[Economy_Verbose] 1010957.98 #FL#;1010957.976;Cleanup;FactionGoal_Hold_Space<inst:96fa5>;(terran) FactionSubgoal_Recon<inst:9ad88> in: 0x58ccd Empty Space (Savage Spur II);null;null;Empty Space;terran;null
+[Economy_Verbose] 1010957.98 #FL#;1010957.976;Started;FactionGoal_Hold_Space<inst:96fa5>;(terran) FactionSubgoal_Recon<inst:166925> in: 0x58900 Empty Space (Savage Spur II);null;null;Empty Space;terran;null
